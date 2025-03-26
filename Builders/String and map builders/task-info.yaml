@@ -4,19 +4,22 @@ files:
     visible: true
     placeholders:
       - offset: 26
-        length: 10
+        length: 150
         placeholder_text: /* TODO */
         initial_state:
           length: 10
           offset: 26
         initialized_from_dependency: false
         encrypted_possible_answer: hqAg774QUxkCIQsPstuMQA55z4XVASNwv50AHZqeBdotz5qZPJkTAPssQpPYCh7+4cv3qvd9bhxgcz3NLO6g3Jd7XP2/Lw4j5k0ylQ4QDJsTTqPVZElCh33dK+CvNyS+Lsvwa3o6NG0qXg60L5C0lFCUak3trY48QvJY3N79ITydceqyFB1xtBgAb9S63+FO
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: test/tests.kt
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Builders+/+String+and+Map+Builders
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 24 Mar 2025 14:44:05 UTC"
 record: -1
